@@ -1,0 +1,17 @@
+*
+!Dockerfile
+!docker-compose.yml
+!index.html
+!styles.css
+!config.js
+!main.js
+!404.html
+!aviso-legal.html
+!privacidad.html
+!cookies.html
+!favicon.svg
+!site.webmanifest
+!robots.txt
+!sitemap.xml
+!assets/
+!assets/editorial-salon.jpg
